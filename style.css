@@ -1,0 +1,162 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: rgb(231, 231, 231);
+    
+}
+
+header {
+    background-color: white;
+}
+
+img {
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+main {
+    max-width: 700px;
+    height: 90vh;
+    background-color: white;
+    border-radius: 5px;
+    margin: 30px auto;
+
+}
+
+nav {
+    height: 50px;
+    border-bottom: 1px solid rgb(231, 231, 231);
+    margin-left: 40px;
+}
+
+.add-task {
+    color: white;
+}
+
+.add-section {
+    border: 1px solid #a4a4a4;
+}
+
+.button {
+    border-radius: 2px;
+    padding: 3px;
+    line-height: 50px;
+}
+
+.color-blue {
+    background-color: #47ACF2;
+}
+
+.color-grey {
+    color:#D6DADD;
+}
+
+.section {
+    margin-top: 30px;
+}
+
+.select {
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 40px;
+}
+
+.option {
+    margin-left:40px ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.editorial-container {
+    color: white;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 4px;
+    font-size: 10px;
+    background-color: #47ACF2;
+}
+
+.q1-goals-container {
+    color: white;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 4px;
+    font-size: 10px;
+    background-color: #9B72E5;
+}
+
+.recruiting-container {
+    color: white;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 4px;
+    font-size: 10px;
+    background-color: #64C0A8;
+}
+
+.mobile-container {
+    color: white;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 4px;
+    font-size: 10px;
+    background-color: #F29D34;
+}
+
+.website-container {
+    color: white;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 4px;
+    font-size: 10px;
+    background-color: #D963A0;
+}
+
+.sales-container {
+    color: white;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 2px;
+    font-size: 10px;
+    background-color: #B1CA27;
+    
+}
+
+.check {
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    background: #fff;
+    border: 1px solid green;
+    color: green;
+    text-align: center;
+    font-size: 10px;
+    margin-right: 5px;
+      }
+
+.cross {
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    padding-top: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    background: #fff;
+    border: 1px solid red;
+    color: red;
+    text-align: center;
+    font-size: 7px;
+    margin-right: 5px;
+}
