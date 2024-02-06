@@ -36,11 +36,11 @@ main {
 nav {
     height: 50px;
     border-bottom: 1px solid rgb(231, 231, 231);
-    margin-left: 40px;
 }
 
 .add-task {
     color: white;
+    margin-left: 40px;
 }
 
 .add-section {
@@ -49,8 +49,9 @@ nav {
 
 .button {
     border-radius: 2px;
-    padding: 3px;
+    padding: 3px 5px;
     line-height: 50px;
+    font-size: 10px;
 }
 
 .color-blue {
@@ -66,7 +67,7 @@ nav {
 }
 
 .select {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 600;
     margin-left: 40px;
 }
@@ -126,7 +127,7 @@ nav {
     color: white;
     border-radius: 5px;
     margin-left: 5px;
-    padding: 2px;
+    padding: 4px;
     font-size: 10px;
     background-color: #B1CA27;
     
